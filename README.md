@@ -5,6 +5,9 @@ Here, I am using javascript's onbeforeunload event. The onbeforeunload event occ
 
 So as soon as the page loads, a start time is stored in a variable and just before unloading, the end time is stored in another variable whose difference is then stored in mysql database using Ajax.
 
+Output:
+The page prints time spent by visitor on every visit.
+
 Languages:
 PHP
 JavaScript
